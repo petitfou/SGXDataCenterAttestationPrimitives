@@ -27,3 +27,5 @@ fi
 # INSTALL IN /home/ubuntu/attestation/SGXDataCenterAttestationPrimitives/QuoteGeneration/sgxsdk
 source ${PWD}/sgxsdk/environment
 make
+
+make deb_pkg
